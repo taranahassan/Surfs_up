@@ -34,4 +34,5 @@ Since the average temperatures for June is 74.9°F, there are more chances of th
 For December the average temperatures are 71°F which only provides 50% chances for the shop to operate during rain.  Again, this can be determined by viewing the statistics for December and noting that 50% of the time the temperatures are 71°F.  If we look further, it also mentions that 75% of the time the temperates are at 74°F .  So it would be safe to assume there may be a little bit more rain than the rest of the year however not enough to negatively impact the business.
 
 
-*Rain measurement categories and description found in https://water.usgs.gov/edu/activity-howmuchrain-metric.html#:~:text=Moderate%20rain%3A%20Greater%20than%200.5,than%208%20mm%20per%20hour.&text=Heavy%20shower%3A%20Greater%20than%2010,than%2050%20mm%20per%20hour.*
+* *New queries noted in summary can be found in [SurfsUp_Challenge_D3_queries](https://github.com/taranahassan/Surfs_up/blob/main/SurfsUp_Challenge_D3_queries.ipynb)*
+** *Rain measurement categories and description found in https://water.usgs.gov/edu/activity-howmuchrain-metric.html#:~:text=Moderate%20rain%3A%20Greater%20than%200.5,than%208%20mm%20per%20hour.&text=Heavy%20shower%3A%20Greater%20than%2010,than%2050%20mm%20per%20hour.*
