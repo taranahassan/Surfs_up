@@ -29,7 +29,7 @@ Below are the plots comparing temperature and precipitation for June and Decembe
 ![June_data.png](https://github.com/taranahassan/Surfs_up/blob/main/Resources/June_data.png?raw=true)
 ![Dec_data.png](https://github.com/taranahassan/Surfs_up/blob/main/Resources/Dec_data.png?raw=true)
 
-Above plots were based on new queries that filter out the temperatures and precipitation.  By reading the plots, it shows that it typically rains heavier when temperatures have been around 69°F in June and between 69°F - 73°F in December.  The other times during either months have been moderate rate of 4mm or less.<br>
+Above plots were based on new queries that filter out the temperatures and precipitation.  By reading the plots, it shows that it typically rains heavier when temperatures have been around 69°F in June and between 69°F - 73°F in December.  The other times during either months have been moderate rain of 4mm or less.<br>
 Since the average temperatures for June is 74.9°F, there are more chances of the shop operations to be successful.  This can be determined by viewing the statistical analysis for June and noting that 50% of the time the temperatures are at 75°F. <br>
 For December the average temperatures are 71°F which only provides 50% chances for the shop to operate during rain.  Again, this can be determined by viewing the statistics for December and noting that 50% of the time the temperatures are 71°F.  If we look further, it also mentions that 75% of the time the temperates are at 74°F .  So it would be safe to assume there may be a little bit more rain than the rest of the year however not enough to negatively impact the business.
 
