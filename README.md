@@ -1,4 +1,4 @@
-# Surfs_up
+# Surfs Up
 
 ## Overview of the analysis: <br>
 The purpose of this analysis is to provide insight on weather trends in Oahu for starting a new business venture; a Surf and Shake shop.  In order for this business venture to be successful and to ensure this is the right investment, invetors would need factual evidence to determine if the Surf and Shake shop can operate throughout the year before financially backing up this venture. <br>
